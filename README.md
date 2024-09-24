@@ -1,4 +1,4 @@
-![40shots_so](https://i.imgur.com/x5EaGA2.png)
+![40shots_so](https://i.imgur.com/TSeHHlO.png)
 
 ⚡Portfolio sử dụng Next.js 13, TypeScript, Tailwind CSS⚡
 
